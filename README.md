@@ -1,6 +1,6 @@
 # Gramener-Case-Study
 
-### This assignment is performed by me as part of PG Diploma in Data Science program offerd by IIITB and upgrad.
+### This assignment is performed by me and my team as part of PG Diploma in Data Science program offerd by IIITB and upgrad.
 
 #### Business Understanding
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
